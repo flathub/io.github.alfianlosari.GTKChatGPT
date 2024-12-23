@@ -38,8 +38,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/alfianlosari/GTKChatGPT",
-                    "tag": "0.1.0",
-                    "commit": "4e4dfab47df893488e6a74a905b251bc57f06e11"
+                    "tag": "0.1.1",
+                    "commit": "7283ab6d7af0eca6f1f3fa74c85b7d8b1b03b4f7"
                 },
                 "generated-sources.json"
             ],
